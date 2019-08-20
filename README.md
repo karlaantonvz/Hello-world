@@ -1,2 +1,2 @@
 # Hello-world
-Repositorio ejemplo Github
+Repositorio ejemplo Github para la clase de portafolios
